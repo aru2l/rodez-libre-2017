@@ -1,3 +1,6 @@
+<img src="https://github.com/aru2l/rodez-libre-2017/blob/master/assets/img/rodez.png" width="900" />
+
+
 # Programme
 
 Déroulement de la journée "Rodez en Libre".
