@@ -5,14 +5,14 @@ Déroulement de la journée "Rodez en Libre".
 
 ## 9h30 - Accueil des participants
 
-Café et vienoiseries offertes par l'organisation.
+Café et viennoiseries offertes par l'organisation.
 
 
 ## 10h00 - Conférences
 
 Les conférences se dérouleront sur deux salles. La première accueillera les conférences dites "grand public" et la seconde accueillera les conférences dites "techniques".
 
-Chaque conférence durera 20-25 minutes suivi de 5-10 minutes de questions/réponses. Au total, elles ne doivent pas excéder 30 minutes.
+Chaque conférence durera 20-25 minutes suivies de 5-10 minutes de questions/réponses. Au total, elles ne doivent pas excéder 30 minutes.
 
 
 ### Salle A - Conférences "grand public"
@@ -44,9 +44,9 @@ Pour des raisons d'organisation, les participants souhaitant déjeuner devront p
 
 L'après-midi sera consacré à des ateliers en rapport avec les conférences du matin. De la même manière, ils seront répartis sur deux salles.
 
-Chaque atelier pouvant durer 1h30 environs et plusieurs ateliers pourront se dérouler dans la même salle. A voir, en fonction du nombre de personne.
+Chaque atelier pouvant durer 1h30 environ, plusieurs ateliers pourront se dérouler dans la même salle. A voir, en fonction du nombre de personnes.
 
-Une pause d'une demi-heure environs sera proposée à 15h30. Des rafraichissements/cafés seront proposés gratuitement aux participants.
+Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissements/cafés seront proposés gratuitement aux participants.
 
 
 ### Salle A
