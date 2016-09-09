@@ -17,7 +17,7 @@ Café et viennoiseries offertes par l'organisation.
 
 Les conférences se dérouleront sur deux salles. La première accueillera les conférences dites "grand public" et la seconde accueillera les conférences dites "techniques".
 
-Chaque conférence durera 20-25 minutes suivies de 5-10 minutes de questions/réponses. Au total, elles ne doivent pas excéder 30 minutes.
+Chaque conférence durera 20-25 minutes suivies de 5-10 minutes de questions/réponses. Au total, elles ne doivent pas excéder *30 minutes*.
 
 
 ### Salle A - Conférences "grand public"
@@ -42,7 +42,7 @@ Chaque conférence durera 20-25 minutes suivies de 5-10 minutes de questions/ré
 
 L'organisation proposera un déjeuner (dont le prix reste à définir) durant la pose repas.
 
-Pour des raisons d'organisation, les participants souhaitant déjeuner devront prévenir l'organisation au moins 24 heures à l'avance.
+Pour des raisons d'organisation, les participants souhaitant déjeuner devront prévenir l'organisation au moins *48 heures* à l'avance.
 
 
 ## 14h00 - Ateliers
@@ -58,11 +58,15 @@ Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissement
 
 ### Salle A
 
+> Intervenants : Snoop dog et Booba
+
 * 14h00 - Atelier 1 et 2
 * 15h30 - Pause
 * 16h00 - Atelier 3 et 4
 
 ### Salle B
+
+> Intervenants : Mireille et Mathieu
 
 * 14h00 - Atelier 5 et 6
 * 15h30 - Pause
@@ -70,5 +74,6 @@ Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissement
 
 
 ## 17h30 - Fin de la journée
+
 
 
