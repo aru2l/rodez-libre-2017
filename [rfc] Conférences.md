@@ -4,6 +4,6 @@
 
 Exemple de contenu pour les conférences.
 
-Steph -> Comment Google à changé ma vie !
-	  -> Perdre du poids avec de l'eau
+* Steph -> Comment Google à changé ma vie !
+* Alexis -> Perdre du poids avec de l'eau
 
