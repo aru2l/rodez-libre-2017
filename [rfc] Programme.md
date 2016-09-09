@@ -76,5 +76,5 @@ Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissement
 ## 17h30 - Fin de la journée
 
 
-
+***
 License: [IV](https://fr.wikipedia.org/wiki/Licence_IV_(licence))
