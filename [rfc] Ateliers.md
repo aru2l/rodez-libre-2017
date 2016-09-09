@@ -4,3 +4,8 @@
 
 Exemple de contenu pour les ateliers.
 
+Artur -> Danse de salon et pétanque
+Steph -> Buvette
+Alexis -> Pachole
+
+
