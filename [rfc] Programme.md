@@ -13,7 +13,7 @@ Café et viennoiseries offertes par l'organisation.
 
 ## 10h00 - Conférences 
 
-* Voir les détails des [Conférences](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Conférences.md)
+> Voir les détails des [Conférences](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Conférences.md)
 
 Les conférences se dérouleront sur deux salles. La première accueillera les conférences dites "grand public" et la seconde accueillera les conférences dites "techniques".
 
@@ -47,7 +47,7 @@ Pour des raisons d'organisation, les participants souhaitant déjeuner devront p
 
 ## 14h00 - Ateliers
 
-* Voir les détails des [Ateliers](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Ateliers.md)
+> Voir les détails des [Ateliers](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Ateliers.md)
 
 L'après-midi sera consacré à des ateliers en rapport avec les conférences du matin. De la même manière, ils seront répartis sur deux salles.
 
