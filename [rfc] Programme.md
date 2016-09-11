@@ -58,7 +58,6 @@ Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissement
 
 ### Salle A
 
-> Intervenants : Snoop dog et Booba
 
 * 14h00 - Atelier 1 et 2
 * 15h30 - Pause
@@ -66,7 +65,6 @@ Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissement
 
 ### Salle B
 
-> Intervenants : Mireille et Mathieu
 
 * 14h00 - Atelier 5 et 6
 * 15h30 - Pause
@@ -76,5 +74,3 @@ Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissement
 ## 17h30 - Fin de la journée
 
 
-***
-License: [IV](https://fr.wikipedia.org/wiki/Licence_IV_(licence))
