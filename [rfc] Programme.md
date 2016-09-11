@@ -71,6 +71,8 @@ Une pause d'une demi-heure environ sera proposée à 15h30. Des rafraichissement
 * 16h00 - Atelier 7 et 8
 
 
-## 17h30 - Fin de la journée
+## 17h30 - Barcamp
+
+## 19h30 - Apéro-Diner en ville
 
 
