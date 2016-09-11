@@ -8,9 +8,10 @@ Le but de ce dépôt est de réunir des documents de réflexion autour d'une fut
 
 > Organisation et Contact : [ARU2L](http://aru2l.org).
 
-- [Programme](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Programme.md)
-- [Ateliers](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Ateliers.md)
-- [Conférences](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Conférences.md)
+* [Programme](%5Brfc%5D%20Programme.md)
+* [Ateliers](%5Brfc%5D%20Ateliers.md)
+* [Conférences](%5Brfc%5D%20Conférences.md)
+* [Site web](%5Brfc%5D%20Site%20web.md)
 
 
 
