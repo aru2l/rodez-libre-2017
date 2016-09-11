@@ -1,11 +1,8 @@
-<img src="https://github.com/aru2l/rodez-libre-2017/blob/master/assets/img/rodez.png" width="900" />
-
 # Ateliers
 
-Exemple de contenu pour les ateliers.
+Pour le bon déroulement des ateliers, il sera nécéssaire d'avoir une connexion internet, de préférence wifi pour éviter de la logistique au niveau câbles, switch, etc...
 
-* Artur -> Danse de salon et pétanque
-* Steph -> Buvette
-* Alexis -> Pachole
+Chaque participant et intervenant devra être muni de son propre ordinateur. 
 
+Pour que les intervenants puissent diffuser des informations à leurs "élèves", des vidéoprojecteurs seront mis à leur disposision.
 
