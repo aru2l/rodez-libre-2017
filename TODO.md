@@ -2,10 +2,10 @@
 
 ## Organisation
 
-* [ ] Définir lieu
-* [ ] Définir date
+* [x] Définir lieu
+* [x] Définir date
 * [ ] Trouver des sponsors
-* [ ] Choisir le traiteur pour le repas du midi
+* [x] Choisir le traiteur pour le repas du midi
 
 
 ## Communication
