@@ -22,20 +22,20 @@ Chaque conférence durera 20-25 minutes suivies de 5-10 minutes de questions/ré
 
 ### Salle A - Conférences "grand public"
 
-* 10h00 - Conférence 1
+* 10h00 - Manipuler vos images librement (Nelly)
 * 10h30 - Conférence 2
-* 11h00 - Conférence 3
-* 11h30 - Conférence 4
+* 11h00 - Identité numérique (Arthur Vardanyan)
+* 11h30 - Dégooglison Internet (Stéphane Delabrusse)
 * 12h00 - Conférence 5
 
 
 ### Salle B - Conférences "techniques"
 
-* 10h00 - Conférence 6
-* 10h30 - Conférence 7
-* 11h00 - Conférence 8
-* 11h30 - Conférence 9
-* 12h00 - Conférence 10
+* 10h00 - Découverte d'Elm (Alexis Couronne)
+* 10h30 - Découverte d'Arduino (Michel Esc)
+* 11h00 - Découverte d'OpenScad (Laurent Lusardi)
+* 11h30 - 
+* 12h00 - Découverte d'Ansible (Alexis Couronne)
 
 
 ## 12h30 - Repas
