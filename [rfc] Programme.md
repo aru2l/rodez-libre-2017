@@ -40,9 +40,7 @@ Chaque conférence durera 20-25 minutes suivies de 5-10 minutes de questions/ré
 
 ## 16h30 - Pause
 
-L'organisation proposera un déjeuner (dont le prix reste à définir) durant la pose repas.
-
-Pour des raisons d'organisation, les participants souhaitant déjeuner devront prévenir l'organisation au moins **48 heures** à l'avance.
+L'organisation proposera des rafraichissements et café.
 
 
 ## 17h30 - Ateliers
