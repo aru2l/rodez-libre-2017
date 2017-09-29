@@ -8,10 +8,10 @@ Le but de ce dépôt est de réunir des documents de réflexion autour d'une fut
 
 > Organisation et Contact : [ARU2L](http://aru2l.org).
 
-* [Programme](%5Brfc%5D%20Programme.md)
-* [Ateliers](%5Brfc%5D%20Ateliers.md)
-* [Conférences](%5Brfc%5D%20Conférences.md)
-* [Site web](%5Brfc%5D%20Site%20web.md)
+* [Programme](Programme.md)
+* [Ateliers](Ateliers.md)
+* [Conférences](Conférences.md)
+* [Site web](Site%20web.md)
 
 
 
