@@ -22,28 +22,28 @@ Chaque conférence durera 20-25 minutes suivies de 5-10 minutes de questions/ré
 
 ### Salle A - Conférences "grand public"
 
-* 14h00 - Manipuler vos images librement (Nelly)
-* 14h30 -
-* 15h00 - Identité numérique (Arthur Vardanyan)
-* 15h30 - Dégooglison Internet (Stéphane Delabrusse)
-* 16h00 -
+* 14h00 - Manipuler vos images librement (Nelly Vincent)
+* 14h30 - Dégooglisons Internet (Stephane de Labrusse)
+* 15h00 - Identité numérique (Artur Vardanyan)
+* 15h30 - Démystifions Linux (Stephane de Labrusse)
+* 16h00 - Intelligence Artificielle (René-pierre Guilhaumon)
 
 
 ### Salle B - Conférences "techniques"
 
 * 14h00 - Découverte d'Elm (Alexis Couronne)
-* 14h30 - Découverte d'Arduino (Michel Esc)
+* 14h30 - Découverte d'Arduino (Michel Escamez)
 * 15h00 - Découverte d'OpenScad (Laurent Lusardi)
-* 15h30 -
+* 15h30 - Découverte imprimante 3D OtusDlp (Michel Escamez)
 * 16h00 - Découverte d'Ansible (Alexis Couronne)
 
 
 ## 16h30 - Pause
 
-L'organisation proposera des rafraichissements et café.
+L'organisation proposera des rafraichissements et café, un bon moment de partage et de découverte de l'association.
 
 
-## 17h30 - Ateliers
+## 17h00 - Ateliers
 
 > Voir les détails des [Ateliers](https://github.com/aru2l/rodez-libre-2017/blob/master/%5Brfc%5D%20Ateliers.md)
 
