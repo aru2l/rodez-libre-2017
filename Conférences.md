@@ -15,7 +15,8 @@ Il serait interessant de pouvoir filmer les conférences afin de les mettre à d
 
 **Par Nelly Vincent**
 
-...description...
+En réponse à des logiciels professionnels et propriétaires trop coûteux, le monde du logiciel libre nous offre des solutions gratuites et puissantes afin de pouvoir traiter et gérer nos photos comme des pros!
+Du développement RAW à la mise en page de vos images destinées à la publication papier ou numérique, découvrez ces logiciels indispensables pour les passionnés de photographie.
 
 
 ### Dégooglisons Internet
