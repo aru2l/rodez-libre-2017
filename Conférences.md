@@ -22,7 +22,10 @@ Il serait interessant de pouvoir filmer les conférences afin de les mettre à d
 
 **Par Stéphane de Labrusse**
 
-...description...
+Ces dernières années ont vu se généraliser une concentration des acteurs d’Internet (Youtube appartient à Google, WhatsApp à Facebook, Skype à Microsoft, etc.).
+Cette centralisation est nuisible, non seulement parce qu’elle freine l’innovation, mais surtout parce qu’elle entraîne une perte de liberté pour les visiteurs.
+
+La réponse que souhaite apporter Framasoft à cette problématique est simple : mettre en valeur, pour chacun de ces services privateur de liberté, une alternative Libre, Ethique, Décentralisée et Solidaire
 
 
 ### Identité numérique
@@ -43,7 +46,12 @@ Il serait interessant de pouvoir filmer les conférences afin de les mettre à d
 
 **Par René-Pierre Guilhaumon**
 
-...description...
+Intelligence Artificielle : Faible, Forte, Quoi ?
+
+L'intelligence artificielle faible prends de plus en plus de place dans notre quotidien.
+Suivi des personnes par reconnaissance, conduite autonome, paiement par reconnaissance faciale, .. vers quel futur allons-nous ?
+Que faut-il craindre de l'intelligence artificielle forte qui sera l'aboutissement de l'intelligence artificielle faible ?
+Vous ne comprenez pas tout ? Le sujet vous intéresse ? Venez voir la conférence, posez des questions, nous avancerons ensemble.
 
 
 ## Conférence "techniques"
